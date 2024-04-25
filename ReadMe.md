@@ -1,5 +1,3 @@
 A -> B
-A===
-
-
+A===asd
 asdasd
